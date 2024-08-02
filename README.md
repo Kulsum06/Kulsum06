@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kulsum Attarwala
-- 🌱 I’m currently learning Kotlin
-- 😄 Pronouns: She/her
+
+
 
 
 <!---
