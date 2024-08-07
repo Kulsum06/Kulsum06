@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsulerender.vercel.app/apitype=waving&height=200&color=gradient&text=Hello&theme=radical"/>
+</p>
+
 - 👋 Hi, I’m Kulsum Attarwala
 
 
