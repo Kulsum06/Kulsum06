@@ -1,4 +1,4 @@
-# Hi there, I'm Kulsum06 👋
+# Hi there, I'm Kulsum 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about technology, learning, and building solutions that make a difference. Here you’ll find a collection of my projects, experiments, and contributions.
