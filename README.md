@@ -8,13 +8,13 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kulsum-a-0a4923238/">
 <img src="https://img.shields.io/badge/LinkedIn-9B8AFB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Kulsum06">
 <img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_EMAIL">
+<a href="kulsumattarwala7@gmail.com">
 <img src="https://img.shields.io/badge/Email-E8A0BF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -168,9 +168,9 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=9B8AFB&icon_color=E8A0BF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kulsum06&show_icons=true&theme=transparent&hide_border=true&title_color=9B8AFB&icon_color=E8A0BF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=9B8AFB" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulsum06&layout=compact&theme=transparent&hide_border=true&title_color=9B8AFB" />
 
 </div>
 
@@ -178,7 +178,7 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=9B8AFB&fire=E8A0BF&currStreakLabel=9B8AFB" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kulsum06&theme=transparent&hide_border=true&ring=9B8AFB&fire=E8A0BF&currStreakLabel=9B8AFB" />
 
 </div>
 
@@ -188,7 +188,7 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Kulsum06/Kulsum06/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -198,7 +198,7 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kulsum-a-0a4923238/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-9B8AFB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -206,7 +206,7 @@ I like combining **technical skills + creativity**, because not every problem ne
 <img src="https://img.shields.io/badge/Portfolio-Visit-E8A0BF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_EMAIL">
+<a href="kulsumattarwala7@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello-F5C2E7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -218,6 +218,6 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 ### ✨ "Building, breaking, learning, repeating." ✨
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=9B8AFB&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Kulsum06&label=Profile%20Views&color=9B8AFB&style=for-the-badge" />
 
 </div>
