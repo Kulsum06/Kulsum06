@@ -184,16 +184,6 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kulsum06/Kulsum06/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
