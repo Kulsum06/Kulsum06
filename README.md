@@ -160,16 +160,6 @@ I like combining **technical skills + creativity**, because not every problem ne
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kulsum06&show_icons=true&theme=transparent&hide_border=true&title_color=9B8AFB&icon_color=E8A0BF" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kulsum06&layout=compact&theme=transparent&hide_border=true&title_color=9B8AFB" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kulsum06&theme=transparent&hide_border=true&ring=9B8AFB&fire=E8A0BF&currStreakLabel=9B8AFB" />
 
 </div>
