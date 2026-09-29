@@ -77,13 +77,6 @@ Currently working towards becoming a stronger developer and building a portfolio
 
 ## 🚀 Featured Projects
 
-### 🌱 Smart Eco-Agri Resilience Platform
-
-A technology-driven platform designed to support farmers with smarter and more sustainable agricultural decision-making.
-
-**Focus:** Agriculture • Sustainability • Data • AI
-
----
 
 ### 🩸 Organ Donation Platform
 
@@ -92,20 +85,19 @@ A web-based platform designed to streamline donor registration and provide infor
 **Focus:** Web Development • Healthcare • Database Management
 
 ---
+### 🌍 TripCraft — Travel Itinerary Planner
+
+A full-stack web application designed to help users discover destinations, create personalized day-wise itineraries, estimate travel expenses, and manage saved trips through a clean, user-friendly interface.
+
+**Focus:** Full-Stack Web Development • Personalized Travel Planning • Budget Management
+
+---
 
 ### 📍 Geo-Attendance Tracker
 
 A location-based attendance system designed to make attendance tracking more efficient and reliable.
 
 **Focus:** Geolocation • Web Development • Automation
-
----
-
-### 🛡️ Job Security Sentinel
-
-An AI-focused concept aimed at detecting potentially fraudulent or suspicious job opportunities and helping users identify recruitment scams.
-
-**Focus:** AI • Fraud Detection • Cybersecurity
 
 ---
 
